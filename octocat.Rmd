@@ -15,6 +15,9 @@ ggplot(iris) +
                  fill = "darkgreen") -> histogram
 histogram
 
+x <- 777
+y <- 1000
+
 
 ```
 
